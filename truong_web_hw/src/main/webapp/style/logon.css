@@ -1,0 +1,9 @@
+.logon {
+    text-align:center;
+
+}
+
+.logon input{
+    margin: 20px ; /* Adds space above and below each input field */
+    
+}

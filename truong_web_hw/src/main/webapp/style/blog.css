@@ -1,0 +1,13 @@
+.blog {
+    text-align:center;
+    padding-left: 15vw;
+    padding-right:15vw;
+    
+}
+
+.blog ul {
+    list-style-position: inside; /* This will bring the marker closer to the text */
+    padding-left: 0; /* Remove additional padding */
+    text-align: left; /* Aligns text to the left */
+
+}
